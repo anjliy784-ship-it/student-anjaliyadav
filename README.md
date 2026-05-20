@@ -1,4 +1,5 @@
 # student-anjaliyadav
-this is my first git  Repository
-Author - Anjali yadav
-branch - ECE
+This is my first Git repository.
+
+Author - Anjali Yadav  
+Branch - ECE
